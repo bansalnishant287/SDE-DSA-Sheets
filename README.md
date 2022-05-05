@@ -1,5 +1,5 @@
 # SDE-DSA-Sheets
-Following are the experts curated DSA Sheets to prepare for Fortune 500 companies.
+Following are the experts curated DSA Sheets to prepare for Fortune 500 companies for SDE Roles.
 1. DSA Sheet by [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw).
 2. Day wise DSA by [Siddharth Singh](https://youtu.be/A69Hwva4qKk).
 3. DSA Sheet by [Arsh](https://www.youtube.com/channel/UCJqx8MM4gDPDy8TqVVlPyLw).
